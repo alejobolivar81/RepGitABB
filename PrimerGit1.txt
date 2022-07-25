@@ -4,3 +4,5 @@ Este es el archivo original de Git.
 
 Primeros cambios al archivo, primera actualizacion
 
+Segunda actualizacion del archivo
+
