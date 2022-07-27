@@ -20,3 +20,12 @@ Jueves
 Patios
 Trabajo y Estudio
 Descanso
+
+Viernes
+Trabajo e incio del Descanso
+
+Sabado
+Bicicleta y entrenamiento
+
+Domingo
+Iglesia
