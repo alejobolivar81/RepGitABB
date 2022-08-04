@@ -1,3 +1,7 @@
+ENCABEZADO DEL ARCHIVO
+AQUI EMPIEZA EL INICIO DEL ARCHIVO
+()XDXD
+
 Nuevo archivo txt
 
 Este es mi documento personal
