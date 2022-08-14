@@ -1,0 +1,44 @@
+ENCABEZADO DEL ARCHIVO
+AQUI EMPIEZA EL INICIO DEL ARCHIVO
+()XDXD
+
+AHORA SI EMPIEZA EL ARCHIVO
+VAMOS CON TODA
+
+Nuevo archivo txt
+
+Este es mi documento personal
+
+Aca coloco todas las anotaciones de las actividades diarias
+
+Lunes
+Trabajo y Estudio
+
+Martes
+Bicicleta
+Almuerzo
+Trabajo y Estudio
+
+Miercoles
+Oficina
+Trabajo y Estudio
+
+Jueves
+Patios
+Trabajo y Estudio
+Descanso
+
+Viernes
+Trabajo e incio del Descanso
+
+Sabado
+Bicicleta y entrenamiento
+
+Domingo
+Iglesia
+
+Siguiente semana
+
+Lunes
+A Trabajar
+A Estudiar
